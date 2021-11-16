@@ -1,5 +1,6 @@
 # Welcome to the Children's Services Data Hub
 
+<img src="/assets/clement-helardot-coding.jpg" alt="Laptop with code" style="width:400px;"/>   
 Discover a range of open source code, built for and by the children's services community, to clean, format and analyse statutory children's data.
 
 ## Process data
