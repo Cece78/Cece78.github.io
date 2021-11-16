@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to the Children's Services Data Hub
 
-You can use the [editor on GitHub](https://github.com/Cece78/cece78.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget efficitur lacus. Pellentesque at mi ac orci rutrum dignissim eget id nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Vestibulum et pretium ante. Ut ullamcorper ipsum et tincidunt vestibulum. Nam congue id leo ultricies accumsan. Integer ut metus non odio commodo gravida ut at eros. Sed ac turpis eget ipsum molestie scelerisque. Sed pharetra odio eget mi fermentum pellentesque. Mauris vulputate lectus augue, venenatis pellentesque mi faucibus et. Cras in sapien lectus. Aenean ac massa at risus iaculis maximus id in lorem. Duis aliquam, enim eget eleifend placerat, eros diam volutpat lectus, id consectetur orci libero at nulla. Integer efficitur risus quis eros elementum accumsan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cleaning your data
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can browse the following repositories:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Project 1
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+```markdown
+# Project 2
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
+```
 
-### Jekyll Themes
+```markdown
+# Project 3
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cece78/cece78.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Conducting analysis
+
+You can browse the following repositories:
+
+```markdown
+# Project 1
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
+```
+
+```markdown
+# Project 2
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
+```
+
+```markdown
+# Project 3
+Enables you to blablabla
+[https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner](Go to repository)
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do you want to add your own analysis to this hub? Contact us at tom.rintoul@socialfinance.org.uk.
