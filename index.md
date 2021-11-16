@@ -6,12 +6,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget efficitur lac
 
 Discover our suite of open source code to clean and format statutory children's services data before conducting analysis.
 
-> ### Annex A, CIN Census and 903 Cleaner
-> Enables you to blablabla
+#### Annex A, CIN Census and 903 Cleaner
+> Enables you to blablabla  
 > [Go to repository](https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner/)
-
-> ### 903 generator
-> Enables you to blablabla
+  
+  
+#### 903 generator
+> Enables you to blablabla  
 > [Go to repository](https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner/)
 
 
@@ -19,12 +20,13 @@ Discover our suite of open source code to clean and format statutory children's 
 
 Analyses for any occasion!
 
-> ### Child event journeys
-> Enables you to blablabla
+#### Child event journeys
+> Enables you to blablabla  
 > [Go to repository](https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner/)
-
-> ### Needs mapping
-> Enables you to blablabla
+  
+  
+#### Needs mapping
+> Enables you to blablabla  
 > [Go to repository](https://github.com/CSCDP/AnnexA_CiNCensus_Cleaner/)
 
 
